@@ -1,0 +1,28 @@
+body{
+    width: 100%;
+    margin: 0px;
+}
+
+
+.contente {
+    width: 100%;
+    height: 100%;
+}
+
+header {
+    background: #e0e0e0;
+}
+
+img {
+    width: 150px;
+    padding: 10px;
+}
+
+img, p {
+    display: inline-block;
+}
+
+.logo-texto {
+    display: flex;
+    align-items: center;
+}
